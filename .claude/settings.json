@@ -1,0 +1,20 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "mcp_tool",
+            "server": "Notion",
+            "tool": "notion-fetch",
+            "input": {
+              "id": "https://app.notion.com/p/usepylon/AI-Sales-Messaging-361ab436af3181f8afe2fc65237a1018"
+            },
+            "timeout": 30,
+            "statusMessage": "Checking Notion AI Sales Messaging page for updates..."
+          }
+        ]
+      }
+    ]
+  }
+}
