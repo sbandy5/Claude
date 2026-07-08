@@ -273,6 +273,25 @@ Head of CS, construction tech, Series A, on Intercom. Email 1 stacked three sign
 
 ---
 
+## 11. Personal Change Log (manual — never synced from Notion)
+
+**This section is off-limits to the Notion Sync Protocol below.** Sections 1–10 above are
+sourced from Notion and get overwritten when Notion changes. This section is the opposite:
+it's Solomon's own running log of changes made to this outreach tooling (sequences, styles,
+hooks, workflow tweaks, anything about *how the tool is used*, not what Notion says the
+playbook is). Claude must never add to, edit, or delete rows here as part of a Notion sync —
+only the user adds entries, or Claude adds one when the user explicitly asks it to log
+something here.
+
+| Date | Change | Why |
+|---|---|---|
+| 2026-07-08 | Added `SessionStart` hook to auto-fetch the Notion root page every session | Keep CLAUDE.md checked against Notion automatically instead of relying on manual re-fetch |
+| 2026-07-08 | Built and enrolled Ate Fokkinga (BlueConic) into "Copy of Austin's Claude Sequence" (Style A) | First live test of a situational-signal (ex-Director of Support turned internal AI builder) cold sequence |
+
+*Add new rows above this line as you make changes. Newest entries on top or bottom, your call — just be consistent.*
+
+---
+
 ## Notion Sync Protocol
 
 This repo has a `SessionStart` hook (`.claude/settings.json`) that calls the Notion MCP
@@ -294,6 +313,8 @@ etc.):**
 3. If Notion has changed, update this file's section(s) to match — don't just mention
    the drift, actually edit CLAUDE.md — and tell the user what changed and why.
 4. If nothing changed, don't touch the file — no busywork edits.
+5. **Never touch the "Personal Change Log" section (§11).** It is not sourced from
+   Notion and is explicitly exempt from this sync process — see that section for why.
 
 **Standing notes:**
 - Always run the em-dash scan and banned-phrase scan (§7) before finalizing any output.
