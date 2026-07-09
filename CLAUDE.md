@@ -286,7 +286,8 @@ something here.
 | Date | Change | Why |
 |---|---|---|
 | 2026-07-08 | Added `SessionStart` hook to auto-fetch the Notion root page every session | Keep CLAUDE.md checked against Notion automatically instead of relying on manual re-fetch |
-| 2026-07-08 | Built and enrolled Ate Fokkinga (BlueConic) into "Copy of Austin's Claude Sequence" (Style A) | First live test of a situational-signal (ex-Director of Support turned internal AI builder) cold sequence |
+| 2026-07-08 | Built and enrolled Ate Fokkinga (BlueConic) into "Claude Sequence" (renamed from "Copy of Austin's Claude Sequence") (Style A) | First live test of a situational-signal (ex-Director of Support turned internal AI builder) cold sequence |
+| 2026-07-09 | Renamed "Copy of Austin's Claude Sequence" to "Claude Sequence" in Amplemarket; enrolled Giuseppe Fornaro (Corcentric) into it (Style B) | Cleaner standing name going forward; second live test, this time a Director-level job-change + tool-redundancy signal |
 
 *Add new rows above this line as you make changes. Newest entries on top or bottom, your call — just be consistent.*
 
