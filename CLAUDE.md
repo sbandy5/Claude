@@ -15,7 +15,7 @@ what to do with it.
 - **Company type:** B2B SaaS
 - **Size:** 25–1000 employees
 - **Stage sweet spot:** Series A–C
-- **Primary buyers:** Director of Customer Support, Director of Customer Success, VP of Customer Success, Head of CX, Chief Customer Officer, anyone who owns post-sales software budget
+- **Primary buyers:** Director of Customer Support, Director of Customer Success, VP of Customer Success, Head of CX, anyone who owns post-sales software budget, Chief Customer Officer
 
 **Buying-moment signal (3+ of these true = ready to buy):**
 - Support split across Slack, email, and a legacy tool with no unified view
@@ -27,20 +27,34 @@ what to do with it.
 
 **Disqualifiers:** B2C companies, under 25 employees, no dedicated CS/support function
 
-**Target role keywords:** Support, Success, Customer Care, Customer Experience, Customer Solutions, Customer Operations, Support Operations, Account Management, Support Lead, Success Lead, Technical Support Engineer Team Lead, customer delivery, client success, chief customer officer, chief customer success officer, chief support, technical account management, technical services, customer relations
+**Target role keywords (updated 2026-07-14 — no more Tier 1/Tier 2 split):** every title below now gets the exact same treatment — enrich + enroll in the single sequence template (see §6). Style A and Style B are merged too, so there's no more style-by-seniority split. Plain "Manager"/"CSM" titles are intentionally excluded — not a fallback tier anymore.
+
+- **Support:** Support, VP/Head/Director of Support, of Customer Support, of Support Operations, of Technical Support
+- **Customer Success:** Customer Success, VP/Head/Director of Customer Success, of Client Success, of Customer Success Operations
+- **Customer Experience:** Customer Experience, VP/Head/Director of Customer Experience, of CX
+- **Customer Care:** Customer Care, VP/Head/Director of Customer Care
+- **Customer Operations:** Customer Operations, VP/Head/Director of Customer Operations
+- **Customer Solutions:** Customer Solutions, VP/Head/Director of Customer Solutions
+- **Account Management:** Account Management, VP/Head/Director of Account Management, of Technical Account Management
+- **Customer Delivery:** Customer Delivery, VP/Head/Director of Customer Delivery
+- **Customer Relations:** Customer Relations, VP/Head/Director of Customer Relations
+- **Technical Services:** Technical Services, VP/Head/Director of Technical Services
+- **Business/Customer/AI Systems:** Business Systems, Customer Systems, AI Systems (VP/Head/Director of each)
+- **Chief-level:** Chief Customer Officer, Chief Customer Success Officer, Chief Support Officer, Chief Experience Officer, Chief Client Officer
+- **Team Lead / IC Lead:** Support Lead, Success Lead, Support Operations Lead, Customer Success Lead, Technical Support Engineer Team Lead, Technical Account Management Lead, Customer Experience Lead, Customer Operations Lead, Customer Delivery Lead
 
 **Role-based pain/angle map:**
 | Role | Pain | Angle |
 |---|---|---|
-| Director/VP CS | Surprise churns, missed upsells, no single account-health view, scattered Gainsight/Slack/email data | Account intelligence, churn risk visibility |
-| Director/Head of Support | Tickets falling through cracks, SLA breaches, manual triage, Zendesk missing Slack | Omnichannel unified inbox, auto-triage |
-| CS Manager/CSM | Manual weekly reports, no QBR context, tool-switching | AI account summaries, automated status updates |
-| CRO/VP Revenue/CCO | Unreliable retention metrics, no post-sales visibility | Revenue retention, expansion signals |
-| Founder/CEO (small co.) | Too many hats, no system | Fast setup, no admin overhead |
-| Chief Customer Officer | No unified support+CS view, manual leadership reporting | Executive command center |
-| Technical Account Mgmt | Juggling Slack/email/tickets, no source of truth | Omnichannel consolidation |
-| Customer/Support Ops | Scattered workflows, no automation | AI workflows, auto-triage |
-| Business/Customer/AI Systems | Fragmented stack, siloed data | Consolidation, single platform |
+| Director/VP Customer Success | Surprise churns, missed upsells, no single account-health view, scattered Gainsight/Slack/email data | Account intelligence, churn risk visibility, CS team efficiency |
+| Director/Head of Customer Support | Tickets falling through cracks, SLA breaches, manual triage, Zendesk missing Slack | Omnichannel unified inbox, auto-triage, response time improvement |
+| CS Manager/CSM *(reference only — excluded from targeting per the role list above)* | Manual weekly reports, no QBR context, tool-switching | AI account summaries, automated status updates, time savings |
+| CRO/VP Revenue/CCO | Unreliable retention metrics, no post-sales visibility, CS not driving expansion | Revenue retention, expansion signals, unified post-sales view |
+| Founder/CEO (small co.) | Too many hats, customer issues falling through, no system | Fast setup, no admin overhead, works with how customers already communicate |
+| Chief Customer Officer/Chief Support | No unified support+CS view, manual leadership reporting, unreliable retention metrics | Executive-level visibility, unified post-sales command center |
+| Technical Account Mgmt/Technical Services | Juggling Slack/email/tickets, no single source of truth | Omnichannel consolidation, faster resolution, less manual coordination |
+| Customer/Support Ops | Workflows scattered across tools, no automation, manual reporting | AI-powered workflows, auto-triage, unified ops view |
+| Business/Customer/AI Systems | Fragmented stack, tools don't talk to each other, support data siloed from CS data | Consolidation, integrations, single platform |
 
 ---
 
@@ -64,7 +78,7 @@ what to do with it.
 
 **Hard rules:** no links/attachments (spam trigger, plain text only) · 2-sentence paragraph max · 1 question per email · 3rd-grade reading level · send window 7–9:30am · **never use em dashes, anywhere, ever.**
 
-**CTA rule:** no generic asks. Email 1 closes with a specific curiosity question tied to their situation. Emails 2–6 close with something more specific than "worth 15 minutes?"
+**CTA rule (updated 2026-07-06 — soft CTAs now beat hard asks):** Email 1 still closes with a pure curiosity question and no CTA at all. From email 2 onward, close soft — "Worth a quick look?" or "Should I send over more details?" outperforms a hard ask like "book a call" or "let's set up 15 minutes." Emails 2–6 should all close soft, not with a time-commitment ask.
 
 **Mechanism over feature:** never state WHAT Pylon does — state HOW, tied to their situation. One mechanism line per email, not a feature list.
 
@@ -74,14 +88,14 @@ what to do with it.
 | # | Tone | Length |
 |---|---|---|
 | 1 | Curious stranger, anchored to specific signal | 4–5 sentences |
-| 2 | Permission offer, specific not generic (Style B exception: stay bold instead) | 1–2 sentences |
+| 2 | Permission offer, specific not generic — used for every contact now, no more seniority-based exception | 1–2 sentences |
 | 3 | New angle / fresh insight or stat | 4 sentences |
 | 4 | Social proof, industry-matched (fresh subject/thread) | 3 sentences |
 | 5 | Peer-to-peer, almost blunt | 2 sentences max |
 | 6 | Last try energy | 1–2 sentences |
 | 7 | Breakup, warm | 2 sentences |
 
-**Email 4 standing angle (when no stronger signal fires)** — consequence frame, not a stat: expectation gap, headcount trap, silent churn clock, timing problem, or growth multiplier (see Notion §2 for full copy on each).
+**Email 4 standing angle (when no stronger signal fires)** — consequence frame, not a stat: expectation gap, headcount trap, silent churn clock, timing problem, or growth multiplier (see Notion §2 for full copy on each). **Alternative — objection-handling variant ("existing system bar"):** when the prospect clearly already has something running, reframe as a discovery question instead of a pitch: "Most [role]s already have something running for [function]. Ripping it out usually isn't the real question. What would Pylon need to do for you to actually call it an upgrade over whatever [company] uses today?"
 
 **Diversity rules:** no two consecutive emails use the same pattern (stat/story/etc). No two emails anchor the same signal — map which signal each email uses before writing.
 
@@ -101,20 +115,23 @@ what to do with it.
 
 1. Recently joined company in relevant role (<3 months)
 2. New leadership hire (CCO, CRO, VP CS)
-3. Shared customer (a Pylon customer is also *their* customer) — highest trust signal
-4. Hiring for CS/Support role
-5. LinkedIn / intent signals
-6. YC-backed / shared investor (Pylon is YC23; investors: a16z, Bain Capital Ventures, General Catalyst, Y Combinator)
-7. New funding round
-8. Situation signal (first CS hire, team doubled, lost support person, launching new segment, inherited broken stack)
-9. Headcount milestone (25–50 employees)
-10. Competitor tech stack detected
+3. **Former employer is a Pylon customer** — personal familiarity signal, stronger than shared customer since it's about the prospect directly, not just their current company (added 2026-07-11)
+4. Shared customer (a Pylon customer is also *their* customer) — highest trust signal
+5. Hiring for CS/Support role
+6. LinkedIn / intent signals
+7. YC-backed / shared investor (Pylon is YC23; investors: a16z, Bain Capital Ventures, General Catalyst, Y Combinator)
+8. New funding round
+9. Situation signal (first CS hire, team doubled, lost support person, launching new segment, inherited broken stack)
+10. Headcount milestone (25–50 employees)
+11. Competitor tech stack detected
 
 **Signal stacking:** 2+ signals firing → reference both in email 1.
 
+**No fake familiarity:** don't reference a generic LinkedIn like/comment just to seem observant. If a signal reference can't be tied to something substantive they actually said or did, skip it — hollow signal references read as creepy, not personalized.
+
 **OpenFunnel tech-stack caveat:** directional, not confirmed — hedge ("looks like you might be on Zendesk") if it's the primary email 1 hook.
 
-Full opener copy per signal type (funding, hiring, competitor, headcount, new leadership, job change, LinkedIn engagement, intent data, situation targeting, YC/investor, shared customer) — see Notion §3.
+Full opener copy per signal type (funding, hiring, competitor, headcount, new leadership, job change, LinkedIn engagement, intent data, situation targeting, YC/investor, shared customer, former-employer-is-customer) — see Notion §3.
 
 ### Competitor Battlecards (quick reference)
 | Competitor | Core gap |
@@ -139,15 +156,16 @@ Full objection handling, proof points, and Trustpilot quotes per competitor — 
 
 ## 5. Workflow & Agent Pipeline
 
-Automated system: CSV of accounts → signal detection + contact enrichment → personalized 7-step sequences per Tier 1/2 contact → auto-enrollment in Amplemarket.
+Automated system: CSV of accounts → signal detection + contact enrichment → personalized 7-step sequences per ICP contact → auto-enrollment in Amplemarket. **No more Tier 1/Tier 2 split (updated 2026-07-14)** — every ICP contact gets the same single-template treatment regardless of seniority.
 
-**Step 0 gates (in priority order):**
-1. **Fathom call recordings first** (`search_meetings` + `find_person`) — more accurate than Salesforce notes, anchors re-engagement email 1. (Note: this tool wasn't accessible in this environment as of 2026-07 — fell back to Salesfinity call logs when needed.)
-2. Salesforce SOQL for closed opportunities
-3. Pylon MCP `search_accounts`
+**Step 0 gates — run once per account and reuse across every contact at it, except Salesfinity which is per-contact:**
+1. **Fathom call recordings** (`search_meetings` + `find_person`) — more accurate than Salesforce notes, anchors re-engagement email 1. Only indexes video/Zoom meetings, not phone dials. (Note: this tool wasn't accessible in this environment as of 2026-07 — fell back to Salesfinity call logs when needed; re-verify access before assuming it's still unavailable.)
+2. **Salesfinity call logs — per contact, not per company.** Call `get_call_logs(search="[contact name]")` for every contact being enrolled, not a company-wide search — a company-wide search can return a huge, unfiltered dump. Pull the transcript if one exists; this is often the single best source of truth for current tool stack, real objections, and who the actual decision-maker is.
+3. **Salesforce — both account-level and per-contact.** SOQL for closed/open opportunities on the account, PLUS a per-contact query: `SELECT Subject, Description, ActivityDate FROM Task WHERE Who.Name = '[contact name]'`. The account-level opportunity check alone misses prior 1:1 email/call activity logged against an individual contact.
+4. **Pylon MCP** `search_accounts` — appearing here alone does NOT block outreach (could be a test, trial, or demo account). Only a confirmed Salesforce Closed Won blocks.
 
 **Blocking rules:**
-- Closed Won → do not write, flag immediately.
+- Closed Won (confirmed in Salesforce) → do not write, flag immediately.
 - Open opportunity (any stage) → do not write, flag immediately (exception: opps owned by Marty Kausas → write it but flag for double-check before sending).
 - Closed Lost → re-engagement sequence, angle per table below.
 
@@ -164,18 +182,23 @@ Automated system: CSV of accounts → signal detection + contact enrichment → 
 
 **Re-engagement voice:** acknowledge prior convo directly, lead with what changed, skip re-explaining Pylon, keep email 1 even shorter. Never: "just circling back," "as per our last discussion," "wanted to follow up on where things landed."
 
-**Contact tiers:** Tier 1 (Decision Maker) = VP/Director/Head of CS/Support/CX, CCO/CRO, CS/Support Ops, Founder/CEO <50 employees. Tier 2 (Adjacent) = CS Managers/CSMs, senior/lead Support Engineers, TAMs, RevOps, Business Systems. **Skip:** Engineering, Product, Marketing, Finance, HR, Recruiting.
+**Contact classification (updated 2026-07-14 — no more Tier 1/Tier 2 split):** **In ICP** = title matches the full role list in §1. **Skip** = everyone else — this now explicitly includes plain "Manager"/"CSM" titles (no longer a fallback tier), plus Engineering, Product, Marketing, Finance, HR, Recruiting.
 
-**Style mapping:** Style A (Signal+Curiosity) for CEO/Founder/COO. Style B (Direct Problem+Day Ask) for Director/VP/Head. Never enroll a CEO in Style B.
-
-**⚠️ Sequence ID note (as of 2026-07-01):** the old "Austin - Tier 1 Call" ID no longer exists. Calls for both Tier 1 and Tier 2 now go through a single "Austin - Calls" sequence, which was in **draft** status as of the last check — confirm it's activated in Amplemarket before relying on it. (In this environment, "Austin" has been renamed "Solomon" per user preference, and the standing sequences are consolidated into two: Solomon - Style A / Style B, each with call steps built directly into the stage structure rather than a separate paired call sequence.)
+**⚠️ Sequence consolidation (as of 2026-07-13/14):** Style A and Style B are merged into one template (see §6), and there is now a single standing sequence — **Solomon - Style A** (Notion's doc still says "Austin - Style A," id `f84740f39d0baed60500b3473fd415090925da3a`, per this environment's Austin→Solomon renaming convention) — every ICP contact goes into this one sequence regardless of seniority. "Solomon - Style B" is retired. **Email only as of 2026-07-13** — the paired call sequence ("Solomon - Calls") has been removed entirely; do not also enroll leads into it. The old Tier-2 catch-all ("Solomon - info search") is also retired as of 2026-07-14. Note: **"Claude Sequence"** (id `c1044760abaa62b2feeda6d0dff0be145e15ef15`, see §11) is a separate, personal test sequence Solomon created — distinct from this official standing pipeline sequence, not a replacement for it.
 
 **Enrollment checklist before every `add_leads_to_sequence` call:**
-1. Enrich first — email required, don't enroll without one.
+1. **Enrich cost-efficiently, without guessing.** Run the bounce-check and duplicate/recently-contacted-check first (free reads) before spending an enrichment credit. Check for an existing email (search_people/Salesforce) before calling `enrich_person`. For everyone else, always use a real `enrich_person` reveal_email call — no pattern-matching/guessed addresses, data accuracy matters more than the credit savings. If enrichment fails, note them separately, don't enroll without an email.
 2. Personalize email_1 per company — never send identical content across a batch.
-3. Match style to role tier.
+3. **One template for everyone** — Style A/B merged, no more matching style to role tier.
 4. Dynamic field name is `subject_line4` (no underscore).
 5. Include override flags when re-enrolling (`ignore_duplicate_leads_in_other_active_sequences`, `ignore_duplicate_leads_in_other_draft_sequences`).
+6. **Verify sign-off + sequence ownership match the rep running this.** Confirm the email sign-off is the rep's actual first name (not left as "Austin"), and confirm the sequence being enrolled into is owned by that same rep's Amplemarket account (check `created_by_user_email` via `list_sequences`/`get_sequence`). Stop and flag before enrolling if either doesn't match.
+7. **Every lead needs a first + last name, not just an email.** Email-only leads sync to Salesforce as "(Not Available)." Backfill gaps with `update_sequence_lead` (`first_name`, `last_name`); to recover a missing name use `enrich_person` name-only (LinkedIn URL first, then email + company_domain).
+8. **Every lead object needs `linkedin_url` too, not just email and name.** Only email is required by the Amplemarket API, which is exactly why linkedin_url quietly gets dropped — carry it through from contact discovery into every lead object, don't drop it just because the API accepts email alone.
+
+**Active sequence conflicts:** if a lead comes back in `in_other_active_sequences_and_skipped` (or the draft/recently-contacted equivalents), present it to the user and ask before overriding — never auto-override.
+
+**End-of-run summary:** for batch pipeline runs, report accounts prospected, successful enrollments, pending override decisions, skipped accounts and why, and total credit spend (`enrich_person` call count).
 
 **Reply agent:** classify (interested/objection/question/not interested/unclear) → draft matched reply → route to Salesfinity if interested/strong question. Never say: "great to hear from you," "thanks for getting back to me," "as per my last email."
 
@@ -187,11 +210,17 @@ Automated system: CSV of accounts → signal detection + contact enrichment → 
 
 ## 6. Working Templates
 
-Four A/B-tested Email 1 styles (identical emails 2–7, only email 1 differs):
-- **Style A — Signal + Curiosity** (default, best for CCO/VP CS)
-- **Style B — Direct Problem + Day Ask** (best for Director/Head)
-- **Style C — Proof First** (nearly 2x reply rate — humble opener + one client/result + soft ask)
-- **Style D — Bold Observation** (pattern interruption for numb prospects)
+**Updated 2026-07-14: Style A and Style B are merged into a single template** — "Signal + Direct Problem + Curiosity Ask" — used for every ICP contact regardless of seniority. Uses the "Solomon - Style A" sequence (see §5 sequence consolidation note); "Solomon - Style B" is retired. Styles C and D remain as undeployed alternatives, not currently used.
+
+**Formula:** [Signal] + [the direct problem it creates, stated plainly — don't soften into "what this usually means"] + [rhetorical curiosity question, no meeting ask]
+
+**Curiosity-ask style:** end with an open-ended, rhetorical question that pokes at whether their current setup is actually working, implying the answer is probably no. Write it fresh from the specific signal/problem just named each time, don't reuse fixed fill-in-the-blank phrasing. Don't offer a positive "out" like "...or is everything fine?" — that lets them disengage with a one-word answer.
+
+Example: "Noticed [company] is hiring a Customer Success Operations Lead. That hire means the current CS stack can't keep up. Multiple tools, no shared view of account health, and the new hire walks into that mess on day one. Is your ticket visibility actually solid right now?"
+
+- **Email 2:** Permission offer — "Didn't hear back. Happy to send over what this looks like for [their specific situation]. Worth it?" Used for every contact now, no more "stay bold" exception.
+- **Style C — Proof First** (nearly 2x reply rate — humble opener + one client/result + soft ask), undeployed alternative
+- **Style D — Bold Observation** (pattern interruption for numb prospects), undeployed alternative
 
 Full copy templates and legacy bodies — pull live from Notion §6, these get updated as A/B tests resolve.
 
@@ -211,9 +240,30 @@ Full copy templates and legacy bodies — pull live from Notion §6, these get u
 
 ## 8. Solution Selling Points (SSPs)
 
-- "If you can't see what's open, overdue, and touched across every channel in one view, you're finding out about SLA breaches after they happen."
-- "Answering one customer question means opening Zendesk, searching Slack, and checking the CRM. That's not a workflow problem, it's a platform problem."
-- **SSP 3 (default, proven — booked 2 meetings):** "The CS teams getting real value from AI aren't using it to replace human conversations. They're using it to remove the work that happens around those conversations, triage, routing, ticket classification, pulling account history." Pair with: "AssemblyAI handles up to 50% of their tickets automatically through Pylon, without the customer ever feeling it." Don't stack with other stats. Best placement: email 3 or 4, for AI-forward companies / CS Ops / Support Ops / accounts with AI-adoption signals.
+**Rewritten into four formal SSPs as of 2026-07-13.** Every email should map to one SSP, and no two consecutive emails should use the same one.
+
+**SSP 1 — Tickets fall through because B2B channels aren't connected.** Best for: Head of Support, Support Director, Support Ops. Best placement: email 1 (when a competitor-stack signal fires), email 3.
+- "A customer replies in Slack and it never becomes a ticket. That's not a process problem. It's a platform problem."
+- "The handoff from CSM to support rep to engineer breaks because context lives in three tools and nobody has the full picture."
+- Mechanism: Pylon pulls every customer channel (Slack Connect, Teams, email, messaging apps) into one queue with tickets, SLAs, and account context attached.
+
+**SSP 2 — Support and Success are flying blind, for different reasons.** Best for: Head of Support/Support Ops (support side); VP CS, Director CS, CSM, CCO (success side). Best placement: email 3, email 4.
+- Support side: "If you can't see what's open, overdue, and touched across every channel in one view, you're finding out about SLA breaches after they happen."
+- Success side: "Churn signals are in the support queue. By the time they surface in the CRM, the customer has already made the decision."
+- Mechanism: Pylon's Account Intelligence surfaces account health, open issues, call history, and churn signals in one view, so a CSM can walk into any QBR in under 5 minutes fully prepared.
+
+**SSP 3 — AI that investigates and does the customer work, not just drafts a reply.** Best for: CS Ops, Support Ops, technical buyers, AI-forward companies. Best placement: email 4 (strongest differentiation angle), email 3 for AI-forward companies.
+- **(Default/proven opener, booked 2 meetings):** "The CS teams getting real value from AI aren't using it to replace human conversations. They're using it to remove the work that happens around those conversations: triage, routing, ticket classification, pulling account history."
+- **(Proven proof line, pair with the line above, don't stack with other stats):** "AssemblyAI handles up to 50% of their tickets automatically through Pylon, without the customer ever feeling it."
+- Mechanism: Pylon's AI is built into the platform — reads across every channel, knows account history, routes automatically, and gets smarter with every interaction.
+
+**SSP 4 — Too many tools, too much cost.** Best for: CCO, CRO, VP CS, anyone owning the post-sales tech budget. Best placement: email 4 or 5 for senior buyers, re-engagement sequences for competitor losses.
+- "Zendesk for support, Gainsight for CS, a portal your customers barely use. Pylon replaces all three."
+- Mechanism: Pylon replaces knowledge base, ticketing, chat widget, and customer portal in one platform — one contract, one integration layer, one place where support and CS data actually talks to each other.
+
+**SSP-to-sequence placement:** Email 1 = SSP 1 or 2, whichever matches the signal. Email 2 = permission offer referencing the same SSP as email 1. Email 3 = a different SSP, fresh angle. Email 4 = SSP 3 (AI angle) or SSP 4 (cost/consolidation), whichever hasn't appeared yet. Email 5 = return to the strongest SSP for the role, blunter framing. Email 6 = SSP 4 or a direct consequence framing. Email 7 = warm close, no SSP needed.
+
+Full email-level phrasing variants and the SSP-to-role reference table — pull live from Notion §8.
 
 ---
 
@@ -222,6 +272,7 @@ Full copy templates and legacy bodies — pull live from Notion §6, these get u
 For prospects who booked a demo but declined/cancelled — not cold, already self-qualified.
 
 - Under 50 words, texting energy, no product pitch, **never name Pylon in the body**.
+- **CTA note:** this email type does NOT use §2's soft-CTA rule. Keep the direct, day-specific ask ("have time tomorrow or [day]?") — these prospects already self-qualified by booking, so directness outperforms a soft curiosity close here.
 - Default pain hook: context switching between tools (if no call quote exists).
 - Never: "you declined the invite," "that's why you booked," reference Salesfinity call objections, fabricate pain from tool names alone, banned phrases, em dashes.
 - **Subject lines:** "still on for [day]?" / "missed you [day]" / "our [day] call" / "[first name] —". Never: "re: the demo," "following up," "checking in," "quick question."
@@ -320,5 +371,5 @@ etc.):**
 **Standing notes:**
 - Always run the em-dash scan and banned-phrase scan (§7) before finalizing any output.
 - Always run the Enrollment Quality Checklist (§5) before any `add_leads_to_sequence` call.
-- Naming convention in this environment: "Austin" → "Solomon." Standing sequences are Solomon - Style A / Solomon - Style B, each with merge-tag fields (`subject_line`, `email_1`–`email_7`, `subject_line4`) and call steps built into the stage structure.
-- §5 (sequence ID/status) and §10 (newest, least battle-tested) are the sections most likely to have drifted — check those first.
+- Naming convention in this environment: "Austin" → "Solomon." The standing sequence is now singular — Solomon - Style A (Style B retired 2026-07-14), merge-tag fields `subject_line`, `email_1`–`email_7`, `subject_line4`, email-only as of 2026-07-13 (no paired call sequence). "Claude Sequence" (§11) is a separate personal test sequence, not the standing pipeline sequence.
+- **Last full sync: 2026-07-14.** §1, §2, §3, §5, §6, and §8 all had material changes (Tier 1/Tier 2 split removed, soft-CTA rule, new signal, sequence/style consolidation, four formal SSPs). §4, §7, §9 (aside from one CTA clarification), and §10 were unchanged. §5 and §6 remain the sections most likely to drift next since they track live pipeline/sequence mechanics.
