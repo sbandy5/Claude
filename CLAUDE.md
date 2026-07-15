@@ -341,6 +341,7 @@ something here.
 | 2026-07-09 | Renamed "Copy of Austin's Claude Sequence" to "Claude Sequence" in Amplemarket; enrolled Giuseppe Fornaro (Corcentric) into it (Style B) | Cleaner standing name going forward; second live test, this time a Director-level job-change + tool-redundancy signal |
 | 2026-07-15 | Standing phrasing preference: use "I'm curious" instead of bare "Curious" when opening a curiosity-question close | Solomon's personal style preference, applies to all future copy regardless of what the Notion template examples say |
 | 2026-07-15 | Standing workflow preference: always show a preview of drafted email copy before enrolling into any sequence, never enroll first and preview after | Solomon wants a chance to review/edit copy before it goes live in Amplemarket |
+| 2026-07-15 | Standing style preference: write copy "agentic forward" — use the word "agentic" directly and lean into the launch/positioning rather than softer "AI-native" framing | Agentic Support Platform has now actually launched, so the direct branding reads as current fact, not hype |
 
 *Add new rows above this line as you make changes. Newest entries on top or bottom, your call — just be consistent.*
 
